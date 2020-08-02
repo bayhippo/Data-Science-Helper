@@ -18,12 +18,12 @@ Data Science Helper is a open source library that intends to save time and make 
 
 * what_is_DSH(): Explains what Data Science Helper library is. 
 * Parameters: No parameters, Return: No return 
-
+       
 * nan_value_vis_and_dropping(): Visualizes NaN value percentages of columns and 
 if user wants, it can drop columns according to a threshold. 
 * Parameters: 
 1. data: Which data fucntion is going to use, 
-  * Value Type: Pandas dataframe 
+    * Value Type: Pandas dataframe 
 1. features: List of data features, Value Type: List, 
 1. threshold_for_dropping: NaN values percentage threshold for dropping a column, 
 if a column's NaN values percentage is bigger than that, fuction drops that column, Current Value: 40, Value Type: Float 

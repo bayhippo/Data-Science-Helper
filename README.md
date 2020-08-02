@@ -22,7 +22,6 @@ Data Science Helper is a open source library that intends to save time and make 
 * nan_value_vis_and_dropping(): Visualizes NaN value percentages of columns and 
 if user wants, it can drop columns according to a threshold. 
 * Parameters: 
-
 data: Which data fucntion is going to use, 
 Value Type: Pandas dataframe 
 

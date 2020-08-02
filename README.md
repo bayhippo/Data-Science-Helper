@@ -7,6 +7,7 @@ Data Science Helper is a open source library that intends to save time and make 
 * Library Name: Data Science Helper 
 * Language: Python 
 * Version: 1.0.0 
+* Import as: DataScienceHelper
 * Field: Data science and Machine Learning 
 * Purpose: Helping with data science operations and save time. 
 * Used Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scipy 

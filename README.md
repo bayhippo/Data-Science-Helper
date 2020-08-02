@@ -1,4 +1,4 @@
-<img src = "https://image.prntscr.com/image/OGSTHGwgQBOSvDeUdgG3kQ.png" width = "550" height = "500" />
+<img src = "https://image.prntscr.com/image/OGSTHGwgQBOSvDeUdgG3kQ.png" width = "600" height = "550" />
 
 # Data Science Helper
 Data Science Helper is a open source library that intends to save time and make important data science operations with less effort. 

@@ -14,9 +14,11 @@ Data Science Helper is a open source library that intends to save time and make 
 * Purpose: Helping with data science operations and save time. 
 * Used Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scipy 
 * Github Link: https://github.com/bayhippo/Data-Science-Helper 
+* PyPi Link: https://pypi.org/project/datasciencehelper/
 * Author: Salih Albayrak 
 * License: MIT License
 * First Creation Date: 7/31/2020 
+* How to pip install: pip install datasciencehelper
 
 # Function Descriptions 
 

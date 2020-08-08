@@ -1,7 +1,0 @@
-README.md
-setup.py
-src/DataScienceHelper.py
-src/datasciencehelper.egg-info/PKG-INFO
-src/datasciencehelper.egg-info/SOURCES.txt
-src/datasciencehelper.egg-info/dependency_links.txt
-src/datasciencehelper.egg-info/top_level.txt
